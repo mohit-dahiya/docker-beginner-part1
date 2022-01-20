@@ -1,4 +1,4 @@
-## Docker Beginner: Demonstrating how to create docker image, pusing to local repoistory with Node.js, MongoDB, MongoExpress application via Docker & Docker-compose
+## Docker Beginner: Demonstrating how to create docker image, pushing to local repoistory with Node.js, MongoDB, MongoExpress application via Docker & Docker-compose
 
 My-App 
 - index.html with pure js and css styles
