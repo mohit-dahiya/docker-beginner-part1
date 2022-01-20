@@ -44,9 +44,11 @@ Step 7: Access you nodejs application UI from browser
 ### create Docker image nad push to docker hub
 
 Step 1: You can also use your docker hub account id
+
     docker build -t compounded16/my-app:1.3 .
 
 Step 2: Push image to docker hub
+
     docker build -t compounded16/my-app:1.3 .
 
 ### With Docker Compose
@@ -73,8 +75,3 @@ Step 5: access the nodejs application from browser
 
     http://localhost:3000
 
-#### To build a docker image from the application
-
-    docker build -t my-app:1.0 .       
-    
-The dot "." at the end of the command denotes location of the Dockerfile.
